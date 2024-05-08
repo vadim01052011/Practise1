@@ -1,0 +1,27 @@
+:root {
+    --titlealogo-color: #1B365D;
+    --text-color: #FFFFFF;
+    --h3-color: #434141;
+    --textafterprograms-color: #615E5C;  
+}
+
+
+* {
+    font-family: "Roboto"
+}
+
+a [href="./index.html"] {
+    color: var(--titlealogo-color);
+}
+
+h1 {
+    color: var(--titlealogo-color);
+}
+
+button {
+    color: var(--titlealogo-color);
+}
+
+a {
+    color: var(--titlealogo-color);
+}
