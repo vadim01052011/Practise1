@@ -2,8 +2,28 @@
     --titlealogo-color: #1B365D;
     --text-color: #FFFFFF;
     --h3-color: #434141;
-    --textafterprograms-color: #615E5C;  
+    --textafterprograms-color: #615E5C;
+    --productsection-background: #D0E8EA;
+    --peasealexasectionchoisesection-background: #D0E7EA;
+    --footer-background: #272E38;  
 }
+
+.alexa-item {
+    background-color: var(--peasealexasectionchoisesection-background);
+}
+
+.product-section {
+    background-color: var(--productsection-background);
+}
+
+.choicesportal-section {
+    background-color: var(--peasealexasectionchoisesection-background);
+}
+
+footer {
+    background-color: var(--footer-background);
+}
+
 
 
 * {
